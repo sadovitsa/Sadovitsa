@@ -1,4 +1,4 @@
-class sadovitsa {
+class sadovitsa { 
   constructor(...options) {
     this.height = "1.78"
     this.weight = "80"
