@@ -7,3 +7,4 @@ class sadovitsa {
     this.sex = "male"
   }
 }
+ 
